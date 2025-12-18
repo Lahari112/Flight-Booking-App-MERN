@@ -160,15 +160,5 @@ http://localhost:3000
 
 **Lahari N**
 Full-Stack Developer | MERN Stack
-
 ---
-
-If you want, I can also:
-
-* Add **screenshots section**
-* Customize README for **college submission**
-* Add **API documentation**
-* Create **live demo section**
-
-Just tell me 💙
 
